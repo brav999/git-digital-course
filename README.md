@@ -2,4 +2,4 @@
 
 ## Gravando mudanças no repositório
 
-## Nova alteração para restauração
+* comando push
