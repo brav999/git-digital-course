@@ -3,3 +3,4 @@
 ## Gravando mudanças no repositório
 
 * comando push
+* comando pull
